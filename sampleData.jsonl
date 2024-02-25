@@ -1,0 +1,20 @@
+{"img": "https://dmeliop.com", "name": "gbh v vw wv  vw vwvwv", "body":"PS D:\A Developer 23 05\frontend\nextjs\depo-hub> npx convex dev
+Need to install the following packages:
+convex@1.9.1
+Ok to proceed? (y)
+? What would you like to configure? a new project
+? Project name: depo-hub
+✔ Created project depo-hub, manage it at https://dashboard.convex.dev/t/devdilyorbek/depo-hub
+Your account now has 0 projects remaining.
+Temporary directory 'C:\Users\Victus\AppData\Local\Temp' and project directory 'convex' are on different filesystems.
+  If you're running into errors with other tools watching the project directory, override the temporary directory location with the CONVEX_TMPDIR environment variable.
+  Be sure to pick a temporary directory that's on the same filesystem as your project.
+✔ Provisioned a dev deployment and saved its:
+    name as CONVEX_DEPLOYMENT to .env.local
+    URL as NEXT_PUBLIC_CONVEX_URL to .env.local
+
+Write your Convex functions in convex\
+Give us feedback at https://convex.dev/community or support@convex.dev
+
+✖ In order to push, add `convex` to your package.json dependencies.                                                                                                                                             
+", "date":"10/12/2024", }
