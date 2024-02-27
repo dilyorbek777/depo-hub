@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     icon: "/depohub.lading.png"
   },
   openGraph: {
-    images: ['/some-specific-page-image.jpg'],
+    images: ['/bg-depo.png'],
   },
 };
 
